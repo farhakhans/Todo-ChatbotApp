@@ -1,4 +1,4 @@
-# Welcome to Todo-ChatbotApp project
+# Welcome to Todo-ChatbotApp projects
 
 ## Project info
 
